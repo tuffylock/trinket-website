@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Belgrano);
+
+body {
+   background-color: #fec679;
+   color: #FA6767;
+   font-family: 'Belgrano', serif;
+}
+
+.flex-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+i {
+  color: #FA6767;
+}
+
+img {
+  width: 60%;
+  height: auto;
+}
